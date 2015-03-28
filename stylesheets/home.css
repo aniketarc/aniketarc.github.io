@@ -1,0 +1,50 @@
+body {
+	font-family: 'helvetica Neue'
+}
+ul.navbar {
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+h1{
+	position: relative;
+	top: 30px;
+	left: 40px;
+	border-bottom: 2px solid black;
+	font-family: 'helvetica Neue';
+	font-size: 40px;
+	font-weight: 400;
+	color: #000066
+}
+h3{
+	position: relative;
+	top: 30px;
+	left: 40px;
+	font-family: 'helvetica Neue';
+	font-size: 20px;
+	font-weight: 300;
+	text-decoration: none;
+}
+h4,h2 {
+    font-family: 'helvetica Neue'
+}
+a:link{
+	text-decoration: none;
+}
+a {
+	color: #0033CC;
+    	font-family: 'helvetica Neue';
+}
+a:hover{
+	text-decoration:none;
+	color: #000066;
+	font-family: 'helvetica Neue';
+	font-size: 25px
+	
+}
+p {
+    	color: #282828;
+    	font-family: 'helvetica Neue';
+	font-size: 15px
+ 	
+}

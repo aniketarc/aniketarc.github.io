@@ -1,0 +1,136 @@
+/* CSS Document */
+*  {padding:0px; margin:0px; margin:0px;}
+
+#wrapper {width:1366px; margin:50px auto;
+          background-color:#FFF;}
+
+ul li {list-style:none;
+       display: inline;}
+	   
+#name {font-family:"Dekar Light";
+       font-size:36px;
+	   color:#FFF;
+	   background-color:#303030;}
+	   
+
+#icons {float:right;
+	    position: absolute; left:auto; top:10px; right:250px; bottom:auto;}
+		
+#video {margin: 10px 0 0 0;
+        font-family:Dekar;
+		font-size:24px;}
+
+p {padding:20px;}
+
+
+#next a {padding:20px;
+         text-decoration:none;
+         font-family:Dekar;
+         font-size:20px;
+		 color:#FFF;
+		 font-style:normal;
+		 font-weight:bold;
+		 background-color:#303030;
+		 display:block;}
+
+#next a:hover {color:#303030;
+               background-color:#27CBC0;}
+			   
+
+#navigation {background-color:#404040;
+             padding:10px;
+			 margin:10px 0 0 0;}
+
+
+#navigation a {padding:10px;
+               margin:5px;
+               text-decoration:none;
+               font-family:Dekar;
+               font-size:20px;
+		       color:#FFF;
+		       font-style:normal;}
+
+#navigation a:hover {color:#303030;
+                     background-color:#27CBC0;}
+					 
+
+#footer {font-family:Arial, Helvetica, sans-serif;
+         margin:10px 0 0 0;
+		 font-size:12px;
+		 color:#303030;
+		 font-style:normal}
+		 
+		 
+		 
+#about {background-color:#17BBB0;
+        color:#FFF;
+		font-family:Dekar;
+		font-size:36px;
+		padding:20px;
+		margin:10px 0;}
+		
+.spaces {padding:10px 30px 10px 30px;}
+
+#info ul li {font-family:Dekar;
+       font-size:24px;
+	   font-weight:bold;
+	   color: #303030;
+	   margin:100px}
+	   
+
+#blog {background-color:#17BBB0;
+        color:#FFF;
+		font-family:Dekar;
+		font-size:36px;
+		padding:20px;
+		margin:10px 0;}
+	   
+
+#faq {background-color:#17BBB0;
+        color:#FFF;
+		font-family:Dekar;
+		font-size:36px;
+		padding:20px;
+		margin:10px 0;}
+
+
+#download {background-color:#17BBB0;
+        color:#FFF;
+		font-family:Dekar;
+		font-size:36px;
+		padding:20px;
+		margin:10px 0;}	   
+
+
+
+#contact {background-color:#17BBB0;
+        color:#FFF;
+		font-family:Dekar;
+		font-size:36px;
+		padding:20px;
+		margin:10px 0;}	 
+
+
+
+				
+
+
+		 
+		 
+
+		  
+
+
+
+
+
+	   
+
+
+					    
+						
+					
+
+
+			 
+				
